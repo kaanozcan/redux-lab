@@ -1,0 +1,22 @@
+{
+  "name": "redux-lab",
+  "version": "0.0.0",
+  "description": "refactoring helper for redux",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redux-lab/redux-lab.git"
+  },
+  "keywords": [
+    "redux",
+    "refactoring"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/redux-lab/redux-lab/issues"
+  },
+  "homepage": "https://github.com/redux-lab/redux-lab#readme"
+}
