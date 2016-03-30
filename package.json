@@ -1,6 +1,6 @@
 {
   "name": "redux-lab",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "refactoring helper for redux",
   "main": "src/index.js",
   "scripts": {
@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/redux-lab/redux-lab/issues"
   },
-  "homepage": "https://github.com/redux-lab/redux-lab#readme"
+  "homepage": "https://github.com/redux-lab/redux-lab#readme",
+  "dependencies": {
+    "redux": "^3.3.1"
+  },
+  "devDependencies": {},
+  "author": "redux-lab <knzcnn@gmail.com> (https://github.com/kaanozcan/)"
 }
